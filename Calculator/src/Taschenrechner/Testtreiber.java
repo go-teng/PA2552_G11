@@ -18,7 +18,7 @@ public class Testtreiber {
 		
 		try {
 			// Menge 1
-			System.out.println("test - gaik");
+			System.out.println("test - Jenkins 1");
 			System.out.println("SET OPERATIONS CALCULATOR \n\nIn Mathematics, sets are a collection of well-defined objects or elements. For example, the set {1, 5, 8} has the elements 1, 5 and 8.\nWith this calculator, you can perform mathematical operations on sets of your choice.\n");
 			System.out.println("Please enter your first set of numbers separated with commas like so:\t1, 2, 3, 4, 5");
 			input1 = s.nextLine();
